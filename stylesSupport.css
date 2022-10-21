@@ -1,0 +1,6 @@
+.support {
+    display: grid;
+    place-items: center;
+    align-content: center;
+    min-height: 100vh;
+}
